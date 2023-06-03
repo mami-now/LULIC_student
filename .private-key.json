@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "machine-learning4eo",
+  "private_key_id": "e967e1a87b107109cfa90ca4f355fdae1886b768",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwG3ofuD0+7jQm\nH8lPjrz5UyaQon66dLGyYmPQScBR57UzIi+PhvBftenKtZ0+idB2F+QQuE+xhtEe\nZSKOjozrHh0PRuu9YXSxn/rQjM0NF+Ldnv2pnPEqSrJsozdZNMPtFOXyBBFIi72+\nhs1LGKtJSN/weXAGYYVBXw+1HSI/zzCH+f62HXdRaoM/LPPpq3GlX0Wuy6YPcZgf\ncx80q/c9WGwgAlWrZXgniAnYIEUxNT86tyIugSiiUmc5HCxXc+LZMPsRX6QPS0qF\nzXerRXqbsg+RVwZdyWvJBUB6Nanl6Z8QiJcWCXNKHjyULyIQ6WBgNZu+hesvefZz\nx3sDxKdHAgMBAAECggEAJF8wbF+xao9o/ty+x6sr1XS6eNHOybSzRKv0gH7S9Ted\nYXe0ifitKZ9ZL3AuD04IW3OYu2lNsFUvWI87wWSoryCzkMWth5oar1riwvLpoMQn\nq20cZ80NtBXkXvKgylBPDOatjTwQ08JkyHZv7QwlyEeAVNrH69F1Y6h+BoKDYdkQ\nuon7WWs8Lz+9x6OOSN6n21uYIEZ/ZjHf2V+La2ATcxwzfnpW249ugJxyNitZLeuO\nG22VhchOIPG8n9xz8G6C6GTk6D7dXKw9zBYU4s8GmoL8dzIrsVj0ozPOv3DKMjj5\ntJiG5dvByuk91DMu5vDOWiXsfsIiB9njPT1evmaVzQKBgQD2Kx76FvCNmax3nYVI\n2ttV4mLsLfwWq0BmItRzWM03hzXbZO+8dAZ70Ds/WVQ0zcrN2xbm3Ef6a0gchEVC\nVKf4hlAJCCSyQsUsvuAQkIaU4vo1qRmdqZV3epDKUNIO3UzGpdGwLTpVNzBotC3o\nVPZlUF0C3pdgsFX6RxbbWX5aWwKBgQC3JAlFwFj/a8TyvnGptPxVLpWCXh8f8Qin\nZ6ba73bcoFNBZ8DqVkd8HjOv4dg1jDnh9HDm/VgTtBGSdhpVhn2DebOrwuVx+4y3\ntKP7bJDkgD3Xpy9svdYgRtfohAyGyWubLKpL46lm0gvp/sHpXC2WVyJf/WCVEcbA\nJqn8RzEChQKBgQDVwaPobjr7+lE0nOe7169V6HsVsuiPlq0ZA22Pq7CnYxV1KTSz\nY9ytbqfD3oGsSHauQmykkus9nCLGAGVTr8cbmyWschHLaQdmT2ipeZYjeuTh67B+\no19SnG9V/tAocCnW5O4sGVnp3T5/7NVgRUafuyTI9RhlsTk3VruWRSPeuQKBgHAe\nlbaoLVQh7C8YPInDDYAwxsNLUA7EB6JFKLd8Ru6HELFIDajpLVZlPwt8XltZ/82/\nUqd3jkZxxRg/SZv2fDzTcxXCeamwcNO+uW2hZ4scn7+40KXoCoE0HdZxkSGrij8z\ntwZC2GDkUvrsRlbRYe9aZOcTPd/FREI66XJTO0PpAoGBAMyzt2GbA4epdwnYbw7v\nuNjRxnSiNMYSINMX/V8xvR4fF8+UMtg3Fa6m2yhJcx7i4l+VlYk937BIOW7xUDTj\nVDeDmo33eAZkObOAr38cJkXBXcnQPgulGpF7ReRScjibeH1wmRIHFsKpPubDjfb0\nhAaDNnO9pTtBKJrY+wPTnJSw\n-----END PRIVATE KEY-----\n",
+  "client_email": "ml4eartho-456@machine-learning4eo.iam.gserviceaccount.com",
+  "client_id": "113057395479652271853",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ml4eartho-456%40machine-learning4eo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
