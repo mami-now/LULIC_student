@@ -7,7 +7,7 @@ from sklearn import preprocessing
 import pickle
 
 # Initialize an app
-app = Flask(_name_)
+app = Flask(__name__)
 
 # Load the serialized model
 with open('model.pkl', 'rb') as f:
