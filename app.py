@@ -109,6 +109,7 @@ def get_features(longitude, latitude):
 
     # Find the band ordering in the loaded data
     band_order = sample['properties']['band_order']
+    //
 
     # Convert the loaded data to ee.List
     nested_list = dataclean.reduceColumns(ee.Reducer.toList(len(band_order)), band_order).values().get(0)
@@ -129,7 +130,7 @@ def predict():
     latitude = float(features['latitude'])
     # TODO: get the features for the given location
     # Define the rectangular polygon coordinates
-    lat = -1.9441
+    lat = -1.9441 
     lon = 30.0619
     offset = 0.51
 
@@ -144,6 +145,7 @@ def predict():
         final_features = get_features(longitude, latitude)
         
         # TODO: get predictions from the the model using the features loaded
+
         prediction = model.predict(final_features)
 
         # convert the prediction to an integer
@@ -157,6 +159,7 @@ def predict():
         # Return a response based on the output of the model
         return render_template('index.html', prediction_text='The area at {}, {} location is {}'.format(longitude, latitude, text))
 
-
+// this is
 if __name__ == "__main__":
     app.run(debug=True)
+
