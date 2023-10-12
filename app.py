@@ -109,7 +109,7 @@ def get_features(longitude, latitude):
 
     # Find the band ordering in the loaded data
     band_order = sample['properties']['band_order']
-    //
+    
 
     # Convert the loaded data to ee.List
     nested_list = dataclean.reduceColumns(ee.Reducer.toList(len(band_order)), band_order).values().get(0)
@@ -159,7 +159,7 @@ def predict():
         # Return a response based on the output of the model
         return render_template('index.html', prediction_text='The area at {}, {} location is {}'.format(longitude, latitude, text))
 
-// this is
+
 if __name__ == "__main__":
     app.run(debug=True)
 
